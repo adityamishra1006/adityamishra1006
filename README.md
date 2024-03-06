@@ -1,6 +1,6 @@
-<img align="center" src="https://github.com/whoayushh/whoayushh/blob/main/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" alt="Ayush" />
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Sofware Developer from India</h3>
+<img align="center" src="https://github.com/adityamishra1006/adityamishra1006/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png" alt="Aditya" />
+<h1 align="center">Hi 👋, I'm Aditya Kumar Mishra</h1>
+<h3 align="center">A aspiring Sofware Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
