@@ -36,9 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamishra1006&show_icons=true&locale=en&theme=tokyonight" alt="Ayush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamishra1006&&theme=tokyonight" alt="Aditya" /></p>
-
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
