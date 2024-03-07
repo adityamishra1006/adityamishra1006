@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/adityamishra1006/adityamishra1006/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png" alt="Aditya" />
 <h1 align="center">Hi 👋, I'm Aditya Kumar Mishra</h1>
-<h3 align="center">A aspiring Sofware Developer from India</h3>
+<h3 align="center">An aspiring Sofware Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,8 +11,6 @@
 - 🔭 I’m currently working on **A Crowdfunding Website**
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mishraaditya6001@gmail.com**
 
