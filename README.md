@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mishraaditya6001@gmail.com**
 
-- ⚡ Fun fact **I think in JAVA**
+- ⚡ **I think in JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
