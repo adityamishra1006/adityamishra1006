@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Java Development**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JAVA Development**
 
 - 💬 Ask me about **JAVA, DSA**
 
