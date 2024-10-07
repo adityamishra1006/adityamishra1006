@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Java Development**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Servlet and JSP**
 
 - 💬 Ask me about **JAVA, DSA**
 
 - 📫 How to reach me **mishraaditya6001@gmail.com**
-
-- ⚡ **I think in JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
