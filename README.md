@@ -36,8 +36,7 @@ Entry-level Backend Java Developer with strong Core Java, DSA, and OOP fundament
 
 ---
 
-## 🛠️ Technologies (Resume-Exact)
-
+## 🛠️ Technologies
 ### 🔹 Backend & Security
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/> Core Java  
