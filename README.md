@@ -98,6 +98,13 @@ Entry-level Backend Java Developer with strong Core Java, DSA, and OOP fundament
 ---
 ## 📊 GitHub Statistics
 
+<summary><b>💻Languages</b></summary>
+<br/>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamishra1006&show_icons=true&locale=en&layout=compact" alt="adityamishra1006" height="192px"/>
+  <br/>
+</p>
+
 <details>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
