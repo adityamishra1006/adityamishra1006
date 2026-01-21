@@ -98,6 +98,17 @@ Entry-level Backend Java Developer with strong Core Java, DSA, and OOP fundament
 ---
 ## 📊 GitHub Statistics
 
+<details>
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityamishra1006&show_icons=true&locale=en" alt="adityamishra1006" height="192px"/></a>
+<br/>
+  &nbsp;
+  </p>
+ </details>
+
 ![GitHub followers](https://img.shields.io/github/followers/adityamishra1006?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/adityamishra1006?style=for-the-badge)
 ![GitHub repos](https://img.shields.io/badge/Public%20Repos-?style=for-the-badge)
